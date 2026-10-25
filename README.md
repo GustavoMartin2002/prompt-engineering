@@ -19,12 +19,12 @@ Este guia é um **Manual de Consulta Permanente** desenhado para ser utilizado n
 
 ## 📑 Sumário de Navegação
 
-1. [Resumo](#1-resumo)
-2. [AI Tools e Agents para Engenharia de Software](#2-ai-tools-e-agents-para-engenharia-de-software)
-3. [Os 9 Ingredientes de um Bom Prompt Técnico](#3-os-9-ingredientes-de-um-bom-prompt-técnico)
-4. [Tarefas Técnicas e de Codificação (Prompts Copiáveis)](#4-técnicas-de-codificação-prompts-copiáveis)
-5. [Os 10 Mandamentos do Vibe Coding](#5-os-10-mandamentos-do-vibe-coding)
-6. [Padronização Permanente de Repositório (`GEMINI.md` / `CLAUDE.md`)](#6-padronização-permanente-de-repositório-geminimd--claudemd)
+1. [Resumo](#-1-resumo)
+2. [AI Tools e Agents para Engenharia de Software](#%EF%B8%8F-2-ai-tools-e-agents-para-engenharia-de-software)
+3. [Os 9 Ingredientes de um Bom Prompt Técnico](#-3-os-9-ingredientes-de-um-bom-prompt-técnico)
+4. [Tarefas Técnicas e de Codificação (Prompts Copiáveis)](#-4-técnicas-de-codificação-prompts-copiáveis)
+5. [Os 10 Mandamentos do Vibe Coding](#-5-os-10-mandamentos-do-vibe-coding)
+6. [Padronização Permanente de Repositório (`GEMINI.md` / `CLAUDE.md`)](#%EF%B8%8F-6-padronização-permanente-de-repositório-geminimd--claudemd)
 
 ## 📌 1. Resumo
 
